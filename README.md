@@ -29,22 +29,17 @@
 
 
 <details>
-  <summary>⚜️</summary>
+  <summary>📂</summary>
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Z1BoT&theme=material-palenight" alt="Z1BoT" /></p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Z1BoT&show_icons=true&theme=material-palenight&locale=en" alt="Z1BoT" /></p>
 </details>
-
-[Telegram]: https://t.me/us7a5
 
 
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Z1BoT/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/new-york-mi-bb7b23221)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](menarada14@gmail.com)
-<br />
+
 <br />
 
-  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-  
+  <img width="55%" align="right" alt="GitHub" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
