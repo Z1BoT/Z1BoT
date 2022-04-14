@@ -13,6 +13,7 @@
 
 [<img align="left" alt="us7a5 | Telegram" width="45px" src="https://img.icons8.com/nolan/120/telegram-app.png" />][Telegram] 
 
+[Telegram]: https://t.me/us7a5
 
 
 <br />
